@@ -1,0 +1,3 @@
+[submodule "probable-happiness"]
+	path = probable-happiness
+	url = https://github.com/avakkyan/probable-happiness.git

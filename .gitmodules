@@ -1,0 +1,3 @@
+[submodule "labka"]
+	path = labka
+	url = https://github.com/TiapovaI/labka.git
